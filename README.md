@@ -3,7 +3,7 @@
 
 ## Name: M.HARINI
 ## Reg No: 212222240035
-## Date: 
+ 
 
 # Ex.No: 6  HOLT WINTERS METHOD
 
